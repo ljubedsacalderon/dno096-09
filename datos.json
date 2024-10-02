@@ -80,7 +80,7 @@
         "signo": "Textil",
         "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-01.jpg?raw=true",
         "github": "https://github.com/ljubedsacalderon"
-    }
+    },
     {
         "nombre": "Tulio",
         "descripcion": "d. ",
@@ -88,7 +88,7 @@
         "signo": "Fotos",
         "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-02.jpg?raw=true",
         "github": "https://github.com/ljubedsacalderon"
-    }
+    },
     {
         "nombre": "Aplicación Móvil",
         "descripcion": "d. ",
@@ -96,6 +96,5 @@
         "signo": "Fotos",
         "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-12.jpg?raw=true",
         "github": "https://github.com/ljubedsacalderon"
-    }
-    
+    } 
 ]
