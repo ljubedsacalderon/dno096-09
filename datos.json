@@ -1,24 +1,5 @@
 [
     {
-        "nombre": "Line Q App - Prototipo Figma",
-        "descripcion": "Propotipo de una aplicación que se basa en el servicio de hacer la fila por otra persona.",
-        "fecha": "2023",
-        "signo": "uxui",
-        "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-10.jpg?raw=true",
-        "fotos":"https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov3-06.jpg?raw=true",
-        "github": "https://github.com/ljubedsacalderon"
-    },
-    {
-        "nombre": "Propuesta diseño web, SOCHERGO",
-        "descripcion": "Rediseño de pagina web.",
-        "fecha": "2023",
-        "signo": "uxui",
-        "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-06.jpg?raw=true",
-        "fotos":"https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov3-04.jpg?raw=true",
-        "github": "https://github.com/ljubedsacalderon"
-    },
-
-    {
         "nombre": "Mcfly - Diseño de una banca",
         "descripcion": "Banca para dos personas, hecha de planchas de terciado de 3mm, diseñada para ser armada a partir de encajes.",
         "fecha": "2022",
@@ -108,5 +89,23 @@
         "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-12.jpg?raw=true",
         "fotos":"https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov3-08.jpg?raw=true",
         "github": "https://github.com/ljubedsacalderon"
-    } 
+    },
+        {
+        "nombre": "Line Q App - Prototipo Figma",
+        "descripcion": "Propotipo de una aplicación que se basa en el servicio de hacer la fila por otra persona.",
+        "fecha": "2023",
+        "signo": "uxui",
+        "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-10.jpg?raw=true",
+        "fotos":"https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov3-06.jpg?raw=true",
+        "github": "https://github.com/ljubedsacalderon"
+    },
+    {
+        "nombre": "Propuesta diseño web, SOCHERGO",
+        "descripcion": "Rediseño de pagina web.",
+        "fecha": "2023",
+        "signo": "uxui",
+        "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-06.jpg?raw=true",
+        "fotos":"https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov3-04.jpg?raw=true",
+        "github": "https://github.com/ljubedsacalderon"
+    }
 ]
